@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning haskell
 - 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me mail me elias.folling.barck@outlook.com or elias.barck@gmail.com
+- 📫 How to reach me elias.folling.barck@outlook.com or elias.barck@gmail.com
 
 <!---
 FollingBarck/FollingBarck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
